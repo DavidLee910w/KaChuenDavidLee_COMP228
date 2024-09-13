@@ -79,7 +79,7 @@ public class Singer {
     {
         this.dateOfBirth = dateOfBirth;
     }
-    public void setnumberOfAlbums(int numberOfAlbums)
+    public void setNumberOfAlbums(int numberOfAlbums)
     {
         this.numberOfAlbums = numberOfAlbums;
     }
