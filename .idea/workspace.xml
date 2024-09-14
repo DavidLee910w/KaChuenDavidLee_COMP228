@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f91ebb29-fb34-4002-9c79-08aa9f7ab0ea" name="Changes" comment="Lab1 - update typo on setNumberofAlbums">
-      <change afterPath="$PROJECT_DIR$/src/Lab1/Singer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Singer.java" beforeDir="false" />
-    </list>
+    <list default="true" id="f91ebb29-fb34-4002-9c79-08aa9f7ab0ea" name="Changes" comment="setup a package for the folder" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,6 +62,9 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Asus\Downloads\COMP228\KaChuenDavidLee_COMP228Lab1\src" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Lab1" />
+    </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -85,7 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1726189961854</updated>
       <workItem from="1726189962879" duration="5312000" />
-      <workItem from="1726276506003" duration="579000" />
+      <workItem from="1726276506003" duration="692000" />
     </task>
     <task id="LOCAL-00001" summary="Lab1">
       <option name="closed" value="true" />
@@ -103,7 +101,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726196297933</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="setup a package for the folder">
+      <option name="closed" value="true" />
+      <created>1726286268466</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726286268466</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +118,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lab1" />
     <MESSAGE value="Lab1 - update typo on setNumberofAlbums" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab1 - update typo on setNumberofAlbums" />
+    <MESSAGE value="setup a package for the folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="setup a package for the folder" />
   </component>
 </project>
