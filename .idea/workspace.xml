@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f91ebb29-fb34-4002-9c79-08aa9f7ab0ea" name="Changes" comment="Lab1 - update typo on setNumberofAlbums">
+      <change afterPath="$PROJECT_DIR$/src/Lab1/Singer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Singer.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1726189961854</updated>
       <workItem from="1726189962879" duration="5312000" />
-      <workItem from="1726276506003" duration="330000" />
+      <workItem from="1726276506003" duration="579000" />
     </task>
     <task id="LOCAL-00001" summary="Lab1">
       <option name="closed" value="true" />

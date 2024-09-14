@@ -1,3 +1,5 @@
+package Lab1;
+
 public class Singer {
     private int singerID;
     private String singerName;

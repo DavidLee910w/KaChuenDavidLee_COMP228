@@ -1,3 +1,5 @@
+package Lab1;
+
 public class Main {
     public static void main(String[] args)
     {
@@ -7,7 +9,7 @@ public class Main {
         singer1.setSingerName("Sabrina Carpenter");
         singer1.setSingerAddress("USA");
         singer1.setDateOfBirth("11-May-1999");
-        singer1.setnumberOfAlbums(6);
+        singer1.setNumberOfAlbums(6);
 
         Singer singer2 = new Singer();
         singer2.setSingerAtOnce(2,"Taylor Swift","USA","13-Dec-1989",11);
