@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f91ebb29-fb34-4002-9c79-08aa9f7ab0ea" name="Changes" comment="setup a package for the folder" />
+    <list default="true" id="f91ebb29-fb34-4002-9c79-08aa9f7ab0ea" name="Changes" comment="setup a package for the folder">
+      <change afterPath="$PROJECT_DIR$/src/WeekThree/LearningArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WeekThree/LearningMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +32,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/DavidLee910w/KaChuenDavidLee_COMP228Lab1.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/DavidLee910w/KaChuenDavidLee_COMP228.git&quot;,
     &quot;accountId&quot;: &quot;713d0283-febc-433a-90bf-caf0abace528&quot;
   }
 }</component>
@@ -44,20 +48,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.LearningArrays.executor": "Run",
+    "Application.LearningMethods.executor": "Run",
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Asus\Downloads\COMP228\KaChuenDavidLee_COMP228Lab1\src" />
@@ -84,6 +90,8 @@
       <updated>1726189961854</updated>
       <workItem from="1726189962879" duration="5312000" />
       <workItem from="1726276506003" duration="692000" />
+      <workItem from="1726527246870" duration="15000" />
+      <workItem from="1726698811503" duration="9241000" />
     </task>
     <task id="LOCAL-00001" summary="Lab1">
       <option name="closed" value="true" />
