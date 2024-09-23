@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f91ebb29-fb34-4002-9c79-08aa9f7ab0ea" name="Changes" comment="setup a package for the folder">
-      <change afterPath="$PROJECT_DIR$/src/WeekThree/LearningArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WeekThree/LearningMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab2Exercise1/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +52,7 @@
     "Application.LearningArrays.executor": "Run",
     "Application.LearningMethods.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -91,7 +91,8 @@
       <workItem from="1726189962879" duration="5312000" />
       <workItem from="1726276506003" duration="692000" />
       <workItem from="1726527246870" duration="15000" />
-      <workItem from="1726698811503" duration="9241000" />
+      <workItem from="1726698811503" duration="9605000" />
+      <workItem from="1727121056401" duration="303000" />
     </task>
     <task id="LOCAL-00001" summary="Lab1">
       <option name="closed" value="true" />
@@ -117,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726286268466</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="setup a package for the folder">
+      <option name="closed" value="true" />
+      <created>1726712742463</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726712742463</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
