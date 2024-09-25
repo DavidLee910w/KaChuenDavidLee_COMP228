@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f91ebb29-fb34-4002-9c79-08aa9f7ab0ea" name="Changes" comment="Exercise 2 first commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab2Exercise2/LottoGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab2Exercise2/LottoGame.java" afterDir="false" />
+    <list default="true" id="f91ebb29-fb34-4002-9c79-08aa9f7ab0ea" name="Changes" comment="Exercise 2 third commit">
+      <change afterPath="$PROJECT_DIR$/src/Lab2Exercise3/OverloadAddition.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +93,7 @@
       <workItem from="1726527246870" duration="15000" />
       <workItem from="1726698811503" duration="9605000" />
       <workItem from="1727121056401" duration="1972000" />
-      <workItem from="1727208362660" duration="3731000" />
+      <workItem from="1727208362660" duration="4073000" />
     </task>
     <task id="LOCAL-00001" summary="Lab1">
       <option name="closed" value="true" />
@@ -152,7 +151,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727233849789</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Exercise 2 third commit">
+      <option name="closed" value="true" />
+      <created>1727235250172</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1727235250172</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,6 +171,7 @@
     <MESSAGE value="setup a package for the folder" />
     <MESSAGE value="First Commit" />
     <MESSAGE value="Exercise 2 first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise 2 first commit" />
+    <MESSAGE value="Exercise 2 third commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise 2 third commit" />
   </component>
 </project>
