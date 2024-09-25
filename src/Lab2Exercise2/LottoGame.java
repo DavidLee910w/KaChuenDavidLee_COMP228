@@ -4,7 +4,13 @@ import javax.swing.*;
 
 public class LottoGame {
     public static void main(String[] args) {
-        int userChoice = getUserChoice();
+        Integer userChoice = getUserChoice();
+
+        if (userChoice == null) {
+            JOptionPane.showMessageDialog(null, "Game cancelled. Goodbye!");
+            System.exit(0);
+        }
+
         boolean userWon = false;
 
         for (int i = 0; i < 5; i++) {
@@ -23,25 +29,28 @@ public class LottoGame {
             }
         }
 
-        String resultMessage = userWon ? "Congratulations! You won!" : "Sorry, you have lost the Lotto.";
+        String resultMessage = userWon ? "Congratulations! You won!" : "Sorry, you lost the Lotto.";
         JOptionPane.showMessageDialog(null, resultMessage);
     }
 
-    private static int getUserChoice() {
-        while (true) {
-            String input = JOptionPane.showInputDialog("Choose a number between 3 and 27:");
-            try {
-                int choice = Integer.parseInt(input);
-                if (choice >= 3 && choice <= 27) {
-                    return choice;
-                } else {
-                    JOptionPane.showMessageDialog(null, "Please enter a number between 3 and 27.");
+        private static Integer getUserChoice() {
+            while (true) {
+                String input = JOptionPane.showInputDialog("Choose a number between 3 and 27 (or click Cancel to exit):");
+                if (input == null) {
+                    return null; // User clicked Cancel
                 }
-            } catch (NumberFormatException e) {
-                JOptionPane.showMessageDialog(null, "Invalid input. Please enter a number.");
+                try {
+                    int choice = Integer.parseInt(input);
+                    if (choice >= 3 && choice <= 27) {
+                        return choice;
+                    } else {
+                        JOptionPane.showMessageDialog(null, "Please enter a number between 3 and 27.");
+                    }
+                } catch (NumberFormatException e) {
+                    JOptionPane.showMessageDialog(null, "Invalid input. Please enter a number.");
+                }
             }
         }
-    }
 
     private static String arrayToString(int[] arr) {
         StringBuilder sb = new StringBuilder();
