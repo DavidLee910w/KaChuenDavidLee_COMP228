@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f91ebb29-fb34-4002-9c79-08aa9f7ab0ea" name="Changes" comment="First Commit">
-      <change afterPath="$PROJECT_DIR$/src/Lab2Exercise2/Lotto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab2Exercise2/LottoGame.java" afterDir="false" />
+    <list default="true" id="f91ebb29-fb34-4002-9c79-08aa9f7ab0ea" name="Changes" comment="Exercise 2 first commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab2Exercise2/LottoGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab2Exercise2/LottoGame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +94,7 @@
       <workItem from="1726527246870" duration="15000" />
       <workItem from="1726698811503" duration="9605000" />
       <workItem from="1727121056401" duration="1972000" />
-      <workItem from="1727208362660" duration="2323000" />
+      <workItem from="1727208362660" duration="3731000" />
     </task>
     <task id="LOCAL-00001" summary="Lab1">
       <option name="closed" value="true" />
@@ -137,7 +136,23 @@
       <option name="project" value="LOCAL" />
       <updated>1727122095317</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Exercise 2 first commit">
+      <option name="closed" value="true" />
+      <created>1727233767225</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727233767225</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Exercise 2 first commit">
+      <option name="closed" value="true" />
+      <created>1727233849789</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1727233849789</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,6 +163,7 @@
     <MESSAGE value="Lab1 - update typo on setNumberofAlbums" />
     <MESSAGE value="setup a package for the folder" />
     <MESSAGE value="First Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+    <MESSAGE value="Exercise 2 first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise 2 first commit" />
   </component>
 </project>

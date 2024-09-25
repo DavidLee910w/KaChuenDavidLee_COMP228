@@ -4,9 +4,9 @@ import javax.swing.*;
 
 public class LottoGame {
     public static void main(String[] args) {
-        Integer userChoice = getUserChoice();
+        Integer userInput = getUserInput();
 
-        if (userChoice == null) {
+        if (userInput == null) {
             JOptionPane.showMessageDialog(null, "Game cancelled. Goodbye!");
             System.exit(0);
         }
@@ -21,9 +21,9 @@ public class LottoGame {
                     "Lotto numbers: " + arrayToString(lotto.getNumbers()) + "\n" +
                     "Sum: " + lottoSum;
 
-            JOptionPane.showMessageDialog(null, message);
+            JOptionPane.showMessageDialog(null, message); //Display the message in JOptionPane
 
-            if (lottoSum == userChoice) {
+            if (lottoSum == userInput) {
                 userWon = true;
                 break;
             }
@@ -33,13 +33,14 @@ public class LottoGame {
         JOptionPane.showMessageDialog(null, resultMessage);
     }
 
-        private static Integer getUserChoice() {
+        private static Integer getUserInput() {
             while (true) {
                 String input = JOptionPane.showInputDialog("Choose a number between 3 and 27 (or click Cancel to exit):");
                 if (input == null) {
                     return null; // User clicked Cancel
                 }
-                try {
+                try {   //treat the input as string first then parse into int, if fail to do so, prompt invalid input.
+                        //if number range over 3 to 27, prompt another error message for updated input;
                     int choice = Integer.parseInt(input);
                     if (choice >= 3 && choice <= 27) {
                         return choice;
@@ -53,13 +54,13 @@ public class LottoGame {
         }
 
     private static String arrayToString(int[] arr) {
-        StringBuilder sb = new StringBuilder();
+        StringBuilder lottoResult = new StringBuilder();
         for (int i = 0; i < arr.length; i++) {
-            sb.append(arr[i]);
+            lottoResult.append(arr[i]);
             if (i < arr.length - 1) {
-                sb.append(", ");
+                lottoResult.append(", ");
             }
         }
-        return sb.toString();
+        return lottoResult.toString();
     }
 }
