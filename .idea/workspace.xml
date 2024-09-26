@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f91ebb29-fb34-4002-9c79-08aa9f7ab0ea" name="Changes" comment="Exercise 2 third commit">
-      <change afterPath="$PROJECT_DIR$/src/Lab2Exercise3/OverloadAddition.java" afterDir="false" />
+    <list default="true" id="f91ebb29-fb34-4002-9c79-08aa9f7ab0ea" name="Changes" comment="Exercise 3 first commit">
+      <change afterPath="$PROJECT_DIR$/src/WeekFour/Time1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WeekFour/Time1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WeekFour/Time2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WeekFour/TimeCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +56,10 @@
     "Application.LearningMethods.executor": "Run",
     "Application.LottoGame.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.OverloadAddition.executor": "Run",
     "Application.Test.executor": "Run",
+    "Application.Time1Test.executor": "Run",
+    "Application.TimeCalculator.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -93,7 +100,8 @@
       <workItem from="1726527246870" duration="15000" />
       <workItem from="1726698811503" duration="9605000" />
       <workItem from="1727121056401" duration="1972000" />
-      <workItem from="1727208362660" duration="4073000" />
+      <workItem from="1727208362660" duration="4680000" />
+      <workItem from="1727305188647" duration="3867000" />
     </task>
     <task id="LOCAL-00001" summary="Lab1">
       <option name="closed" value="true" />
@@ -159,7 +167,23 @@
       <option name="project" value="LOCAL" />
       <updated>1727235250172</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Exercise 2 third commit">
+      <option name="closed" value="true" />
+      <created>1727235478610</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1727235478610</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Exercise 3 first commit">
+      <option name="closed" value="true" />
+      <created>1727235511754</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1727235511754</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,6 +196,7 @@
     <MESSAGE value="First Commit" />
     <MESSAGE value="Exercise 2 first commit" />
     <MESSAGE value="Exercise 2 third commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise 2 third commit" />
+    <MESSAGE value="Exercise 3 first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise 3 first commit" />
   </component>
 </project>
