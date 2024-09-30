@@ -5,22 +5,38 @@ import java.util.Random;
 
 public class Test {
     private String[] questions = {
-            "What is 2 + 2?",
-            "What is 5 x 3?",
-            "What is 10 / 2?",
-            "What is 7 - 3?",
-            "What is 9 + 1?"
+            "Which of the following typically groups related classes so that they could be imported into programs and reused??",
+            "Which of the following statements is false about Java method statements?",
+            "Method arguments may be______________________________",
+            "What does Math static method Math.ceil(x) do?",
+            "There are variables for which each object of a class does not need its own separate copy. They are called_______________."
     };
 
     private String[][] options = {
-            {"1", "2", "3", "4"},
-            {"15", "10", "8", "5"},
-            {"10", "5", "4", "6"},
-            {"4", "5", "3", "2"},
-            {"10", "11", "9", "8"}
+            {"Method",
+                    "Package",
+                    "IDE",
+                    "Function"},
+            {"Statements in a method body determine the behavior of an object.",
+                    "Statements in a method body is written only once",
+                    "Statements in a method body are not hidden from other methods.",
+                    "Statements in a method body use existing classes and methods as building blocks to create new programs."},
+
+            {"constants, variables, or expressions.",
+                    "only constants.",
+                    "only strings.",
+                    "only variables"},
+            {"Rounds x to the largest integer not greater than x.",
+                    "Rounds x to it is absolute value.",
+                    "Round x to the smallest integer not less than x",
+                    "Rounds x to the smallest integer smaller than x."},
+            {"constants",
+                    "local variables",
+                    "instance variables",
+                    "class variables"}
     };
 
-    private int[] answers = {3, 0, 1, 0, 0};
+    private int[] answers = {1, 2, 0, 2, 3};
     private int correctCount = 0;
     private int incorrectCount = 0;
     private Random random = new Random();
@@ -36,7 +52,7 @@ public class Test {
         String input = (String) JOptionPane.showInputDialog(
                 null,
                 questions[questionIndex],
-                "Math Test",
+                "JAVA Programming Test",
                 JOptionPane.PLAIN_MESSAGE,
                 null,
                 options[questionIndex],

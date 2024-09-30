@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f91ebb29-fb34-4002-9c79-08aa9f7ab0ea" name="Changes" comment="Exercise 3 first commit">
-      <change afterPath="$PROJECT_DIR$/src/WeekFour/Time1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WeekFour/Time1Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WeekFour/Time2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WeekFour/TimeCalculator.java" afterDir="false" />
+    <list default="true" id="f91ebb29-fb34-4002-9c79-08aa9f7ab0ea" name="Changes" comment="Week4 Class Examples">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab2Exercise1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab2Exercise1/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,27 +47,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.LearningArrays.executor": "Run",
-    "Application.LearningMethods.executor": "Run",
-    "Application.LottoGame.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.OverloadAddition.executor": "Run",
-    "Application.Test.executor": "Run",
-    "Application.Time1Test.executor": "Run",
-    "Application.TimeCalculator.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.LearningArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LearningMethods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LottoGame.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OverloadAddition.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Time1Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TimeCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Asus\Downloads\COMP228\KaChuenDavidLee_COMP228Lab1\src" />
@@ -101,7 +98,8 @@
       <workItem from="1726698811503" duration="9605000" />
       <workItem from="1727121056401" duration="1972000" />
       <workItem from="1727208362660" duration="4680000" />
-      <workItem from="1727305188647" duration="3867000" />
+      <workItem from="1727305188647" duration="5410000" />
+      <workItem from="1727657309401" duration="718000" />
     </task>
     <task id="LOCAL-00001" summary="Lab1">
       <option name="closed" value="true" />
@@ -183,7 +181,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727235511754</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Week4 Class Examples">
+      <option name="closed" value="true" />
+      <created>1727393477071</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1727393477071</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,6 +203,7 @@
     <MESSAGE value="Exercise 2 first commit" />
     <MESSAGE value="Exercise 2 third commit" />
     <MESSAGE value="Exercise 3 first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise 3 first commit" />
+    <MESSAGE value="Week4 Class Examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week4 Class Examples" />
   </component>
 </project>
